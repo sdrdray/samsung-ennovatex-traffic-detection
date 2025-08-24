@@ -100,7 +100,7 @@ def extract_metadata(packet):
 ## Contact and Reporting
 
 For privacy concerns or security issues:
-- Email: privacy@samsung-challenge.com
+- Email: subhradipdray@gmail.com
 - Security vulnerabilities: Responsible disclosure process
 - Ethics questions: Open discussion in project repository
 
