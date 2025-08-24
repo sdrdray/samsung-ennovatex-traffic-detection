@@ -229,6 +229,6 @@ python src/data_collection/pcap_parser.py \
 ## Contact Information
 
 For questions about the dataset or to report issues:
-- **Email**: dataset@samsung-challenge.com
+- **Email**: subhradipdray@gmail.com
 - **GitHub Issues**: [Project Repository Issues](https://github.com/yourusername/samsung-traffic-detection/issues)
 - **Documentation**: [Full Documentation](docs/)
