@@ -4,7 +4,7 @@
 
 The Real-time Reel/Video Traffic Detection System follows a multi-stage pipeline architecture designed for scalability, real-time performance, and accuracy. The system processes network traffic through four main stages: capture, feature extraction, inference, and visualization.
 
-## High-Level Architecture
+## Level Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
