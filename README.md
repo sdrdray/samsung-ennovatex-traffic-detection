@@ -6,7 +6,7 @@
 
 **Team members (Names)** - Subhradip Debray
 
-**Demo Video Link** - [The public youtube video link will be pasted or edited by me later]
+**Demo Video Link** - [[click here - demo video]](https://youtu.be/rnXVPW4V3fQ)
 
 ## Project Artefacts
 
